@@ -1,0 +1,32 @@
+body{
+	margin-top: 20px;
+	background: silver;
+}
+
+#wrapper{
+	width: 960px;
+	margin: 0px auto;
+}
+
+
+.search {
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+}
+
+table, table td, table th{
+	text-align: center;
+	margin: 0 auto;
+}
+
+a{
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+
+
+
+
+
